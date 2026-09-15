@@ -27,3 +27,9 @@ Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+Open `verification.ipynb` in Jupyter Notebook or JupyterLab and run all cells
+sequentially from top to bottom.
+
+During execution, the notebook automatically generates the `qrep.py` and
+`tda.py` modules required for the subsequent computational experiments.
