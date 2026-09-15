@@ -20,3 +20,10 @@ The computational experiments were performed using Python 3.11.5,
 NumPy 1.26.4, and GUDHI 3.13.0.
 
 The required Python dependencies are listed in `requirements.txt`.
+
+## Reproducing the Experiments
+
+Install the required dependencies using:
+
+```bash
+pip install -r requirements.txt
