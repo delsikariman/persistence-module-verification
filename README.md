@@ -8,10 +8,11 @@ The repository provides the implementation of the computational procedures and e
 
 The main files in this repository are:
 
-- `verification.ipynb` — Jupyter Notebook containing the computational experiments.
-- `qrep.py` — Python routines related to quiver representations.
-- `tda.py` — Python routines for persistent homology and topological data analysis.
-- `requirements.txt` — Python dependencies required to reproduce the computational experiments.
+- `verification.ipynb` — a self-contained Jupyter Notebook containing the
+  computational experiments and generating the required `qrep.py` and
+  `tda.py` modules during execution.
+- `requirements.txt` — Python dependencies required to reproduce the
+  computational experiments.
 
 ## Computational Environment
 
