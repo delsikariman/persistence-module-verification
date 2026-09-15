@@ -15,17 +15,5 @@ The main files in this repository are:
 
 ## Computational Environment
 
-The experiments were implemented in Python 3.12.
-
-The main packages used include:
-
-- NumPy
-- SciPy
-- Matplotlib
-- scikit-learn
-- GUDHI
-
-The required dependencies can be installed using:
-
-```bash
-pip install -r requirements.txt
+The computational experiments were performed using Python 3.11.5,
+NumPy 1.26.4, and GUDHI 3.13.0.
